@@ -11,4 +11,3 @@ public class Lándzsás extends Katona {
     }
 
 }
-//ELméletileg ez is kész
