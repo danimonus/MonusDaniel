@@ -33,4 +33,3 @@ public class Nyilas extends Katona {
         return super.equals(ny) && this.lőtáv == ny.getLőtáv();
     }
 }
-//KÉSZ mint class
