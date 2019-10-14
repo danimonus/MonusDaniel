@@ -46,4 +46,3 @@ public class Katona {
 
     }
 }
-//KÉSZ ez a Class
