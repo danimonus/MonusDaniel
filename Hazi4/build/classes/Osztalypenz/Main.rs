@@ -1,0 +1,2 @@
+Osztalypenz.osztalyP
+Osztalypenz.Main

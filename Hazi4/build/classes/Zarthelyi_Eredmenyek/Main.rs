@@ -1,0 +1,2 @@
+Zarthelyi_Eredmenyek.zhEredmeny
+Zarthelyi_Eredmenyek.Main
